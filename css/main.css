@@ -122,6 +122,10 @@ header {
   border-left: 2px solid transparent;
 }
 
+#menu li a:hover {
+  text-decoration: none;
+}
+
 #menu li a i {
   min-width: 30px;
 }
