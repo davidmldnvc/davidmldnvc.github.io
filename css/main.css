@@ -6,9 +6,9 @@
 
 :root {
   /*color*/
-  --main-color-: #15a082;
+  --main-color-: #00acf0;
   --white-color-: #fff;
-  --darker-color-: #383838;
+  --darker-color-: #06283D;
   --silver-color-: #888888;
   --bckg-color-: rgba(0, 0, 0, 0.5);
 
@@ -31,7 +31,7 @@ html {
 
 body {
   font-family: var(--main-font-);
-  background-color: #f7f7f7;
+  background-color: #e3f7fe;
 }
 
 a {
@@ -110,7 +110,7 @@ header {
 }
 
 #menu li:hover a {
-  color: #15a082;
+  color: var(--main-color-);
 }
 
 #menu li a {
@@ -176,7 +176,7 @@ main section {
   padding: 50px 100px;
   margin-top: 100px;
   width: 100%;
-  box-shadow: 0px 0px 60px #dfdfdf;
+  box-shadow: 0px 0px 60px #06283d;
 }
 
 #contact .content {
