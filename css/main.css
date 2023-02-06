@@ -681,7 +681,7 @@ hr {
 }
 
 .overlay {
-  background: #15a082;
+  background: main(--main-color-);
   z-index: 1;
   transition: all 0.4s ease-in-out;
 }
