@@ -618,7 +618,8 @@ hr {
 }
 
 .details,
-.overlay {
+.
+{
   position: absolute;
   top: 0;
   left: 0;
@@ -681,7 +682,7 @@ hr {
 }
 
 .overlay {
-  background: main(--main-color-);
+  background: var(--main-color-);
   z-index: 1;
   transition: all 0.4s ease-in-out;
 }
