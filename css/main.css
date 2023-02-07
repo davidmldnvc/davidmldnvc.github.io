@@ -306,7 +306,7 @@ hr {
 .primary-btn:hover {
   background-color: var(--darker-color-);
   color: var(--main-color-);
-  border-color: var(--darker-color-);
+  border-color: var(--main-color-);
   transform: translateY(-5px);
   box-shadow: 5px 5px 20px 0px rgb(0 0 0 / 20%);
   transition: all linear 300ms;
